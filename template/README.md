@@ -1,4 +1,5 @@
 # Aeneid Design
+created from template [cra-template-aeneid-react](https://github.com/mguomanila/cra-template-aeneid-react) free landing page template.
 
 A React implementation of [Davide Pacilio's](https://gumroad.com/davidepacilio) free landing page template. His design and layout has been rebuilt with React using [`create-react-app`](https://github.com/facebook/create-react-app). The motivation in doing this was to for my own practice and implementation of what I am learning in React.
 
